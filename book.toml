@@ -1,11 +1,11 @@
 [book]
-authors = ["نام شما"]
+authors = ["علی معینی"]
 language = "Fa"
 multilingual = false
 src = "src"
-title = "نام کتاب"
+title = "open-cv آموزش کتابخانه"
 text-direction = "rtl"
-description = "موضوع کتاب یا شرحی بر کتاب"
+description = "open-cv ترجمه مستندات کتابخانه"
 
 [preprocessor]
 
