@@ -8,9 +8,8 @@
 
 # نصب کتابخانه های مورد نیاز
 1. بسته های زیر باید در محل پیش فرض نصب شوند
-    Python 3.x (3.4+) یا Python 2.7.x [از اینجا](https://www.python.org/downloads)
-    Numpy
-    matplotlib
+    Python 3.x (3.4+) یا Python 2.7.x [از اینجا](https://www.python.org/downloads) - numpy - matplotlib(اختیاری)
+  
    
    ```bash
     pip install numpy
