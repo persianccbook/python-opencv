@@ -5,3 +5,4 @@
 - [شروع به کار با ویدیو](./03.StartWithVideo.md)
 - [توابع رسم](./04.DrawingFunc.md)
 - [مدیریت موس](./05.MouseHandling.md)
+- [پنل رنگ](./06.ColorPallette.md)
