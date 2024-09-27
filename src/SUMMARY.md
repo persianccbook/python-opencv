@@ -7,3 +7,4 @@
 - [مدیریت موس](./05.MouseHandling.md)
 - [پنل رنگ](./06.ColorPallette.md)
 - [عملیات های پایه ای روی عکس](./07.ImageCoreOperation.md)
+- [عملیات های محاسباتی ریاضیاتی روی عکس](./08.ArithmeticOperation.md)
